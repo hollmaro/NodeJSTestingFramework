@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1490985835341" stop="1490985836090" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>NodeJS_APP.AppTest</name>
+    <test-cases>
+        <test-case start="1490985835381" stop="1490985835392" status="passed">
+            <name>testApp</name>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="linux-ro"/>
+                <label name="thread" value="12771@linux-ro.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

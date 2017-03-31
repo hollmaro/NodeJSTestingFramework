@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: NodeJS_APP.TestCreateNewNote
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.516 sec - in NodeJS_APP.TestCreateNewNote

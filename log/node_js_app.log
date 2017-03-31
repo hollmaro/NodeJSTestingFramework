@@ -1,0 +1,256 @@
+2017-31-03 01:07:26   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 01:07:26   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 19:37:35   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 19:37:35   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 19:38:44   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 19:38:44   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 19:40:12   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 19:40:12   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 19:42:14   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 19:42:14   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 19:42:19   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 19:42:19   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 19:42:19   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 19:42:19   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 19:42:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 19:42:20   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 19:42:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 19:42:20   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 20:36:58   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:36:58   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 20:37:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 20:37:05   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 20:37:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 20:37:05   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 20:37:06   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 20:37:06   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 20:37:06   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new note was typed in input!
+2017-31-03 20:37:06   INFO [NodeJS_APP.pages.MainPage] : Text new note was typed into note body: true
+2017-31-03 20:37:06   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (f64787725c2dcef64656cdabf5ed6fb9)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:37:06   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:37:07   INFO [NodeJS_APP.pages.MainPage] : Text: new title is on the page
+2017-31-03 20:37:07   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: true
+2017-31-03 20:37:07   INFO [NodeJS_APP.pages.MainPage] : Text: new note is on the page
+2017-31-03 20:37:07   INFO [NodeJS_APP.pages.MainPage] : Note with body new note is created: true
+2017-31-03 20:37:07   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 20:37:07   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 20:39:05   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:39:05   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 20:39:09   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 20:39:09   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 20:39:09   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 20:39:09   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 20:39:10   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 20:39:10   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 20:39:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new note was typed in input!
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Text new note was typed into note body: true
+2017-31-03 20:39:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (c2ff8ec1737ce8b2a04b591e861608f8)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Text: new title is on the page
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: true
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Text: new note is on the page
+2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Note with body new note is created: true
+2017-31-03 20:39:12   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 20:39:12   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 20:56:38   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:56:38   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:56:43   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 20:56:43   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 20:56:43   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 20:56:43   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 20:56:43   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new title was typed in input!
+2017-31-03 20:56:43   INFO [NodeJS_APP.pages.MainPage] : Text 1 new title was typed into title input: true
+2017-31-03 20:56:44   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new note was typed in input!
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Text 1 new note was typed into note body: true
+2017-31-03 20:56:44   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (a96479a7fd277d9bce25d9998519670a)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new title is on the page
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Note with title 1 new title is created: true
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new note is on the page
+2017-31-03 20:56:44   INFO [NodeJS_APP.pages.MainPage] : Note with body 1 new note is created: true
+2017-31-03 20:56:45   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 2 new title was typed in input!
+2017-31-03 20:56:45   INFO [NodeJS_APP.pages.MainPage] : Text 2 new title was typed into title input: true
+2017-31-03 20:56:46   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 2 new note was typed in input!
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Text 2 new note was typed into note body: true
+2017-31-03 20:56:46   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (a96479a7fd277d9bce25d9998519670a)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Text: 2 new title is on the page
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Note with title 2 new title is created: true
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Text: 2 new note is on the page
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Note with body 2 new note is created: true
+2017-31-03 20:56:46   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 20:59:16   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:59:17   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:59:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 20:59:20   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 20:59:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 20:59:20   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 20:59:21   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new title was typed in input!
+2017-31-03 20:59:21   INFO [NodeJS_APP.pages.MainPage] : Text 1 new title was typed into title input: true
+2017-31-03 20:59:21   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new note was typed in input!
+2017-31-03 20:59:21   INFO [NodeJS_APP.pages.MainPage] : Text 1 new note was typed into note body: true
+2017-31-03 20:59:21   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (615fbb002c93b546966f9bd6006e0935)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:59:21   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:59:27   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new title is on the page
+2017-31-03 20:59:27   INFO [NodeJS_APP.pages.MainPage] : Note with title 1 new title is created: true
+2017-31-03 20:59:28   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new note is on the page
+2017-31-03 20:59:28   INFO [NodeJS_APP.pages.MainPage] : Note with body 1 new note is created: false
+2017-31-03 20:59:28   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 20:59:28   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 20:59:50   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:59:50   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:59:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 20:59:55   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 20:59:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 20:59:55   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 20:59:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new title was typed in input!
+2017-31-03 20:59:55   INFO [NodeJS_APP.pages.MainPage] : Text 1 new title was typed into title input: true
+2017-31-03 20:59:56   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 1 new note was typed in input!
+2017-31-03 20:59:56   INFO [NodeJS_APP.pages.MainPage] : Text 1 new note was typed into note body: true
+2017-31-03 20:59:56   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:59:56   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:59:57   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new title is on the page
+2017-31-03 20:59:57   INFO [NodeJS_APP.pages.MainPage] : Note with title 1 new title is created: true
+2017-31-03 20:59:57   INFO [NodeJS_APP.pages.MainPage] : Text: 1 new note is on the page
+2017-31-03 20:59:57   INFO [NodeJS_APP.pages.MainPage] : Note with body 1 new note is created: true
+2017-31-03 20:59:57   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 2 new title was typed in input!
+2017-31-03 20:59:57   INFO [NodeJS_APP.pages.MainPage] : Text 2 new title was typed into title input: true
+2017-31-03 20:59:58   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 2 new note was typed in input!
+2017-31-03 20:59:58   INFO [NodeJS_APP.pages.MainPage] : Text 2 new note was typed into note body: true
+2017-31-03 20:59:58   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 20:59:58   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 20:59:58   INFO [NodeJS_APP.pages.MainPage] : Text: 2 new title is on the page
+2017-31-03 20:59:58   INFO [NodeJS_APP.pages.MainPage] : Note with title 2 new title is created: true
+2017-31-03 20:59:59   INFO [NodeJS_APP.pages.MainPage] : Text: 2 new note is on the page
+2017-31-03 20:59:59   INFO [NodeJS_APP.pages.MainPage] : Note with body 2 new note is created: true
+2017-31-03 20:59:59   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 3 new title was typed in input!
+2017-31-03 20:59:59   INFO [NodeJS_APP.pages.MainPage] : Text 3 new title was typed into title input: true
+2017-31-03 21:00:00   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 3 new note was typed in input!
+2017-31-03 21:00:00   INFO [NodeJS_APP.pages.MainPage] : Text 3 new note was typed into note body: true
+2017-31-03 21:00:00   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:00   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:01   INFO [NodeJS_APP.pages.MainPage] : Text: 3 new title is on the page
+2017-31-03 21:00:01   INFO [NodeJS_APP.pages.MainPage] : Note with title 3 new title is created: true
+2017-31-03 21:00:01   INFO [NodeJS_APP.pages.MainPage] : Text: 3 new note is on the page
+2017-31-03 21:00:01   INFO [NodeJS_APP.pages.MainPage] : Note with body 3 new note is created: true
+2017-31-03 21:00:01   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 4 new title was typed in input!
+2017-31-03 21:00:01   INFO [NodeJS_APP.pages.MainPage] : Text 4 new title was typed into title input: true
+2017-31-03 21:00:02   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 4 new note was typed in input!
+2017-31-03 21:00:02   INFO [NodeJS_APP.pages.MainPage] : Text 4 new note was typed into note body: true
+2017-31-03 21:00:02   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:02   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:02   INFO [NodeJS_APP.pages.MainPage] : Text: 4 new title is on the page
+2017-31-03 21:00:02   INFO [NodeJS_APP.pages.MainPage] : Note with title 4 new title is created: true
+2017-31-03 21:00:03   INFO [NodeJS_APP.pages.MainPage] : Text: 4 new note is on the page
+2017-31-03 21:00:03   INFO [NodeJS_APP.pages.MainPage] : Note with body 4 new note is created: true
+2017-31-03 21:00:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 5 new title was typed in input!
+2017-31-03 21:00:03   INFO [NodeJS_APP.pages.MainPage] : Text 5 new title was typed into title input: true
+2017-31-03 21:00:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 5 new note was typed in input!
+2017-31-03 21:00:03   INFO [NodeJS_APP.pages.MainPage] : Text 5 new note was typed into note body: true
+2017-31-03 21:00:04   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Text: 5 new title is on the page
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Note with title 5 new title is created: true
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Text: 5 new note is on the page
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Note with body 5 new note is created: true
+2017-31-03 21:00:04   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 6 new title was typed in input!
+2017-31-03 21:00:04   INFO [NodeJS_APP.pages.MainPage] : Text 6 new title was typed into title input: true
+2017-31-03 21:00:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 6 new note was typed in input!
+2017-31-03 21:00:05   INFO [NodeJS_APP.pages.MainPage] : Text 6 new note was typed into note body: true
+2017-31-03 21:00:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:05   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:05   INFO [NodeJS_APP.pages.MainPage] : Text: 6 new title is on the page
+2017-31-03 21:00:05   INFO [NodeJS_APP.pages.MainPage] : Note with title 6 new title is created: true
+2017-31-03 21:00:06   INFO [NodeJS_APP.pages.MainPage] : Text: 6 new note is on the page
+2017-31-03 21:00:06   INFO [NodeJS_APP.pages.MainPage] : Note with body 6 new note is created: true
+2017-31-03 21:00:06   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 7 new title was typed in input!
+2017-31-03 21:00:06   INFO [NodeJS_APP.pages.MainPage] : Text 7 new title was typed into title input: true
+2017-31-03 21:00:07   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 7 new note was typed in input!
+2017-31-03 21:00:07   INFO [NodeJS_APP.pages.MainPage] : Text 7 new note was typed into note body: true
+2017-31-03 21:00:07   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:07   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:07   INFO [NodeJS_APP.pages.MainPage] : Text: 7 new title is on the page
+2017-31-03 21:00:07   INFO [NodeJS_APP.pages.MainPage] : Note with title 7 new title is created: true
+2017-31-03 21:00:08   INFO [NodeJS_APP.pages.MainPage] : Text: 7 new note is on the page
+2017-31-03 21:00:08   INFO [NodeJS_APP.pages.MainPage] : Note with body 7 new note is created: true
+2017-31-03 21:00:08   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 8 new title was typed in input!
+2017-31-03 21:00:08   INFO [NodeJS_APP.pages.MainPage] : Text 8 new title was typed into title input: true
+2017-31-03 21:00:09   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 8 new note was typed in input!
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Text 8 new note was typed into note body: true
+2017-31-03 21:00:09   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Text: 8 new title is on the page
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Note with title 8 new title is created: true
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Text: 8 new note is on the page
+2017-31-03 21:00:09   INFO [NodeJS_APP.pages.MainPage] : Note with body 8 new note is created: true
+2017-31-03 21:00:10   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 9 new title was typed in input!
+2017-31-03 21:00:10   INFO [NodeJS_APP.pages.MainPage] : Text 9 new title was typed into title input: true
+2017-31-03 21:00:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Text 9 new note was typed in input!
+2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Text 9 new note was typed into note body: true
+2017-31-03 21:00:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (3df75aef2b22521157cc3e46f574adb7)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Text: 9 new title is on the page
+2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Note with title 9 new title is created: false
+2017-31-03 21:00:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 21:19:50   INFO [NodeJS_APP.IsRetainWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 21:19:50   INFO [NodeJS_APP.IsRetainWorks] : Test - isRetainWorks[0] - started
+2017-31-03 21:19:54   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 21:19:54   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 21:19:54   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 21:19:54   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 21:19:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 21:19:55   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 21:19:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new note was typed in input!
+2017-31-03 21:19:55   INFO [NodeJS_APP.pages.MainPage] : Text new note was typed into note body: true
+2017-31-03 21:19:56   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (86483c3e56a2a01e4388a62aef0ba299)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:19:56   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:19:56   INFO [NodeJS_APP.libs.WebElementOnPage] : Link [[ChromeDriver: chrome on LINUX (86483c3e56a2a01e4388a62aef0ba299)] -> xpath: .//*[@class='logo col-xs-10']] was clicked!
+2017-31-03 21:19:56   INFO [NodeJS_APP.pages.MainPage] : Retain link was clicked: true
+2017-31-03 21:20:02   INFO [NodeJS_APP.libs.WebElementOnPage] : Page was refreshed
+2017-31-03 21:20:02   INFO [NodeJS_APP.pages.MainPage] : Page was refreshed!
+2017-31-03 21:20:02   INFO [NodeJS_APP.pages.MainPage] : Text: new title is on the page
+2017-31-03 21:20:02   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: false
+2017-31-03 21:20:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 21:20:03   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 21:35:58   INFO [NodeJS_APP.IsSettingsWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 21:35:58   INFO [NodeJS_APP.IsSettingsWorks] : Test - isSettingsWorks[0] - started
+2017-31-03 21:36:01   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 21:36:01   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 21:36:01   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 21:36:01   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 21:36:02   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 21:36:02   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 21:36:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new note was typed in input!
+2017-31-03 21:36:03   INFO [NodeJS_APP.pages.MainPage] : Text new note was typed into note body: true
+2017-31-03 21:36:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (de67ba3bbc78162c06a79bb64057c673)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:36:03   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:36:03   INFO [NodeJS_APP.pages.MainPage] : Text: new title is on the page
+2017-31-03 21:36:03   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: true
+2017-31-03 21:36:04   INFO [NodeJS_APP.pages.MainPage] : Text: new note is on the page
+2017-31-03 21:36:04   INFO [NodeJS_APP.pages.MainPage] : Note with body new note is created: true
+2017-31-03 21:36:04   INFO [NodeJS_APP.pages.MainPage] : Getting page body
+2017-31-03 21:36:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Link [[ChromeDriver: chrome on LINUX (de67ba3bbc78162c06a79bb64057c673)] -> xpath: .//*[@class='link'][1]] was clicked!
+2017-31-03 21:36:05   INFO [NodeJS_APP.pages.MainPage] : Settings link was clicked: true
+2017-31-03 21:36:05   INFO [NodeJS_APP.pages.MainPage] : Getting page body
+2017-31-03 21:36:05   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 21:36:05   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
+2017-31-03 21:47:39   INFO [NodeJS_APP.TestCreateNewNote] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 21:47:39   INFO [NodeJS_APP.TestCreateNewNote] : Test - createNewNote[0] - started
+2017-31-03 21:47:48   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
+2017-31-03 21:47:48   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
+2017-31-03 21:47:48   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
+2017-31-03 21:47:48   INFO [NodeJS_APP.pages.MainPage] : Title is correct
+2017-31-03 21:47:49   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new title was typed in input!
+2017-31-03 21:47:49   INFO [NodeJS_APP.pages.MainPage] : Text new title was typed into title input: true
+2017-31-03 21:47:49   INFO [NodeJS_APP.libs.WebElementOnPage] : Text new note was typed in input!
+2017-31-03 21:47:49   INFO [NodeJS_APP.pages.MainPage] : Text new note was typed into note body: true
+2017-31-03 21:47:49   INFO [NodeJS_APP.libs.WebElementOnPage] : Button [[ChromeDriver: chrome on LINUX (10d2242fccade1fa801313df5d2457c8)] -> xpath: .//button[@type='submit']] was clicked!
+2017-31-03 21:47:49   INFO [NodeJS_APP.pages.MainPage] : Button DONE was clicked: true
+2017-31-03 21:47:50   INFO [NodeJS_APP.pages.MainPage] : Text: new title is on the page
+2017-31-03 21:47:50   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: true
+2017-31-03 21:47:51   INFO [NodeJS_APP.pages.MainPage] : Text: new note is on the page
+2017-31-03 21:47:51   INFO [NodeJS_APP.pages.MainPage] : Note with body new note is created: true
+2017-31-03 21:47:51   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
+2017-31-03 21:47:51   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1490986059406" stop="1490986071653" version="1.4.23.HOTFIX1" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>NodeJS_APP.TestCreateNewNote</name>
+    <test-cases>
+        <test-case start="1490986059411" stop="1490986071630" status="passed">
+            <name>createNewNote[0]</name>
+            <title>1-st test!</title>
+            <description type="text">Test to create new note</description>
+            <steps>
+                <step start="1490986060280" stop="1490986068521" status="passed">
+                    <name>openMainPage</name>
+                    <title>Opening main page</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1490986068542" stop="1490986068608" status="passed">
+                    <name>isTitleCorect</name>
+                    <title>Checking is title is correct</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1490986068620" stop="1490986069188" status="passed">
+                    <name>typeTextintoTitleInput[new title]</name>
+                    <title>Typing text new title into title input</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1490986069197" stop="1490986069661" status="passed">
+                    <name>typeTextintoNoteBodyInput[new note]</name>
+                    <title>Typing text new note into note body</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1490986069665" stop="1490986069913" status="passed">
+                    <name>clickDoneButton</name>
+                    <title>Clicks DONE button</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1490986069928" stop="1490986070741" status="passed">
+                    <name>noteWithTitleCreated[new title]</name>
+                    <title>Check is note with title new title created</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1490986069937" stop="1490986070734" status="passed">
+                            <name>isTextOnPage[new title]</name>
+                            <title>Check is text: new title is present on the page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+                <step start="1490986070745" stop="1490986071044" status="passed">
+                    <name>noteWithBodyCreated[new note]</name>
+                    <title>Check is note with body new note created</title>
+                    <attachments/>
+                    <steps>
+                        <step start="1490986070754" stop="1490986071036" status="passed">
+                            <name>isTextOnPage[new note]</name>
+                            <title>Check is text: new note is present on the page</title>
+                            <attachments/>
+                            <steps/>
+                        </step>
+                    </steps>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="host" value="linux-ro"/>
+                <label name="thread" value="13007@linux-ro.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="JUnit"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
