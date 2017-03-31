@@ -13,10 +13,10 @@ import java.net.MalformedURLException;
 /**
  * Created by roman on 3/31/17.
  */
-public class CreatingTwentyNotes extends ParentTest {
+public class TestCreatingTwentyNotes extends ParentTest {
     MainPage mainPage;
 
-    public CreatingTwentyNotes(String browser) throws MalformedURLException {
+    public TestCreatingTwentyNotes(String browser) throws MalformedURLException {
         super(browser);
     }
 

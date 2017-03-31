@@ -52,8 +52,8 @@
 2017-31-03 20:39:11   INFO [NodeJS_APP.pages.MainPage] : Note with body new note is created: true
 2017-31-03 20:39:12   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
 2017-31-03 20:39:12   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
-2017-31-03 20:56:38   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
-2017-31-03 20:56:38   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:56:38   INFO [NodeJS_APP.TestCreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:56:38   INFO [NodeJS_APP.TestCreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
 2017-31-03 20:56:43   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
 2017-31-03 20:56:43   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
 2017-31-03 20:56:43   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
@@ -80,8 +80,8 @@
 2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Note with body 2 new note is created: true
 2017-31-03 20:56:46   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
 2017-31-03 20:56:46   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
-2017-31-03 20:59:16   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
-2017-31-03 20:59:17   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:59:16   INFO [NodeJS_APP.TestCreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:59:17   INFO [NodeJS_APP.TestCreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
 2017-31-03 20:59:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
 2017-31-03 20:59:20   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
 2017-31-03 20:59:20   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
@@ -98,8 +98,8 @@
 2017-31-03 20:59:28   INFO [NodeJS_APP.pages.MainPage] : Note with body 1 new note is created: false
 2017-31-03 20:59:28   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
 2017-31-03 20:59:28   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
-2017-31-03 20:59:50   INFO [NodeJS_APP.CreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
-2017-31-03 20:59:50   INFO [NodeJS_APP.CreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
+2017-31-03 20:59:50   INFO [NodeJS_APP.TestCreatingTwentyNotes] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 20:59:50   INFO [NodeJS_APP.TestCreatingTwentyNotes] : Test - createTwentyNewNotes[0] - started
 2017-31-03 20:59:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
 2017-31-03 20:59:55   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
 2017-31-03 20:59:55   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
@@ -194,8 +194,8 @@
 2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Note with title 9 new title is created: false
 2017-31-03 21:00:11   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
 2017-31-03 21:00:11   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
-2017-31-03 21:19:50   INFO [NodeJS_APP.IsRetainWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
-2017-31-03 21:19:50   INFO [NodeJS_APP.IsRetainWorks] : Test - isRetainWorks[0] - started
+2017-31-03 21:19:50   INFO [NodeJS_APP.TestIsRetainWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 21:19:50   INFO [NodeJS_APP.TestIsRetainWorks] : Test - isRetainWorks[0] - started
 2017-31-03 21:19:54   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
 2017-31-03 21:19:54   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
 2017-31-03 21:19:54   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest
@@ -214,8 +214,8 @@
 2017-31-03 21:20:02   INFO [NodeJS_APP.pages.MainPage] : Note with title new title is created: false
 2017-31-03 21:20:03   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser was closed!
 2017-31-03 21:20:03   INFO [NodeJS_APP.pages.MainPage] : Browser was closed from page http://localhost:3000/
-2017-31-03 21:35:58   INFO [NodeJS_APP.IsSettingsWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
-2017-31-03 21:35:58   INFO [NodeJS_APP.IsSettingsWorks] : Test - isSettingsWorks[0] - started
+2017-31-03 21:35:58   INFO [NodeJS_APP.TestIsSettingsWorks] :  ----- class org.openqa.selenium.chrome.ChromeDriver -------
+2017-31-03 21:35:58   INFO [NodeJS_APP.TestIsSettingsWorks] : Test - isSettingsWorks[0] - started
 2017-31-03 21:36:01   INFO [NodeJS_APP.libs.WebElementOnPage] : Browser and url http://localhost:3000/ was opened!
 2017-31-03 21:36:01   INFO [NodeJS_APP.pages.MainPage] : Main page was opened!
 2017-31-03 21:36:01   INFO [NodeJS_APP.libs.WebElementOnPage] : Title is: Angular2JuniorTest

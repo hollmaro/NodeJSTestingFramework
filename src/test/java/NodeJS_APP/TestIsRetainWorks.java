@@ -13,10 +13,10 @@ import java.net.MalformedURLException;
 /**
  * Created by roman on 3/31/17.
  */
-public class IsRetainWorks extends ParentTest{
+public class TestIsRetainWorks extends ParentTest{
     MainPage mainPage;
 
-    public IsRetainWorks(String browser) throws MalformedURLException {
+    public TestIsRetainWorks(String browser) throws MalformedURLException {
         super(browser);
     }
 

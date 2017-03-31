@@ -13,10 +13,10 @@ import java.net.MalformedURLException;
 /**
  * Created by roman on 3/31/17.
  */
-public class IsSignOutWorks extends ParentTest{
+public class TestIsSignOutWorks extends ParentTest{
     MainPage mainPage;
 
-    public IsSignOutWorks(String browser) throws MalformedURLException {
+    public TestIsSignOutWorks(String browser) throws MalformedURLException {
         super(browser);
     }
 
